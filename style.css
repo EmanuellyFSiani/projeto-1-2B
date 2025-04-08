@@ -1,9 +1,17 @@
 .foto{
-width: 360px;
-height: 139;
-
+width: 532px;
+height: 142;
+background-color: rgb(231, 20, 20);
 
 }
+.primeira secao{
+width: 532px;
+height: 523px;
+background-color: aqua;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
 
+}
 
 <
