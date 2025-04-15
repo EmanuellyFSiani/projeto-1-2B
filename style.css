@@ -12,21 +12,12 @@ display: flex;
 flex-direction: row;
 justify-content: space-between;
 
-.gatinho1.png{
-width: 141;
-height: 215;
-
 }
-.gatinho2.png{
-    width: 141;
-    height: 215;
+.gatinhotamanho{
+    width: 141px;
+    height: 215px;
     
     }
 
-   .gatinho3.png{
-        width: 141;
-        height: 215;
-        
-        }
-}
+
 
